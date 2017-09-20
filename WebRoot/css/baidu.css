@@ -1,0 +1,21 @@
+*{ margin: 0; padding: 0; } 
+.clear { clear: both; }
+.head { height: 100%; width: 100%; text-align: center; }
+.head .head-top { height:40px; line-height: 40px; width:100%; }
+.head .head-top .head-top-right { float: right; list-style: none; }
+.head .head-top .head-top-right li { float: left; margin-left: 20px; }
+.head .head-right-link { text-decoration: underline; }
+.head .content { height: 500px; width: 100%; margin-top: 50px; }
+.head .content .logo img { width: 230px; height: 120px; }
+.head .content .search-div { width: 650px; height: 35px; margin: 40px 0 0 375px; border: 1px solid #ddd; text-align: center;}
+.head .content .search-div .search-ipt{ width: 560px; height: 35px; float: left; padding-left: 14px; }
+.head .content .search-div .search-btn { cursor: pointer; background: #2d78f4; color: #fff; float: right; height: 35px; width: 90px; line-height: 35px;}
+.head .content .wechat { margin-top: 170px; }
+.head .content .wechat .phonebaidu{ font-size: 12px; margin-top: 5px; color: #666; }
+.head .content .foot1 { margin: 15px 0 10px 0; text-decration: underline; }
+.head .content .foot1 span{ margin: 25px 20px 10px 0 ; text-decoration: underline; color: #999; font-size: 12px; cursor: pointer; }
+.head .content .foot2 span{ color: #999; font-size: 12px; cursor: pointer; }
+.head .content .foot2 .underline { text-decoration: underline; }
+
+
+
